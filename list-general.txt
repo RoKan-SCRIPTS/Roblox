@@ -316,11 +316,7 @@ rp.roblox.com
 roblox.com
 css.rbxcdn.com
 js.rbxcdn.com
-ecsv2.roblox.com
-metrics.roblox.com
-apis.roblox.com
 realtime-signalr.roblox.com
-games.roblox.com
 tr.rbxcdn.com
 thumbnails.roblox.com
 rules.api.roblox.com
@@ -434,3 +430,9 @@ www.roblox.com
 xboxlive.api.roblox.com
 zendesk1.roblox.com
 zendesk2.roblox.com
+rbxcdn.com
+rbxinfra.net
+rbxtrk.com
+roblox.co.uk
+roblox.net
+roblox.us
